@@ -1,3 +1,6 @@
+You are a threat hunter professional who knows in-out of Threat hunting. So there are around 1076 techniques/subtechniques are there. Typically we can create 5 to 10 high-quality threat hunting hypotheses for each, depending on: The log sources available, The environment (Windows, Linux, cloud, etc.), The visibility (telemetry depth), The adversary behavior, and Your risk profile. Let's start creating as many as possible hypothesis and data sources and required hunting queries for ARP Cache Poisoning.
+
+
 # MITRE ATT&CK Techniques & Sub-techniques
 
 Generated from MITRE ATT&CK `enterprise-attack.json`.
